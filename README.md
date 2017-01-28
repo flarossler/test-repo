@@ -1,2 +1,2 @@
-# test-repo
+# Test-Repo
 Initial testing repo for data science course
